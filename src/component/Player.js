@@ -13,7 +13,6 @@ const Player = (props) => {
             score = {props.score}
             index={props.index}
             changeScore={props.changeScore}
-
         />
       </div>
     );
