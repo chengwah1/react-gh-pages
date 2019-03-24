@@ -1,13 +1,13 @@
 {
-  "main.css": "/react-gh-pages/static/css/main.d0060495.chunk.css",
-  "main.js": "/react-gh-pages/static/js/main.ba1e85dd.chunk.js",
-  "main.js.map": "/react-gh-pages/static/js/main.ba1e85dd.chunk.js.map",
-  "runtime~main.js": "/react-gh-pages/static/js/runtime~main.ac2d5040.js",
-  "runtime~main.js.map": "/react-gh-pages/static/js/runtime~main.ac2d5040.js.map",
-  "static/js/2.3fb4ccec.chunk.js": "/react-gh-pages/static/js/2.3fb4ccec.chunk.js",
-  "static/js/2.3fb4ccec.chunk.js.map": "/react-gh-pages/static/js/2.3fb4ccec.chunk.js.map",
-  "index.html": "/react-gh-pages/index.html",
-  "precache-manifest.297d1c2d75fa44ddb35d53059416a233.js": "/react-gh-pages/precache-manifest.297d1c2d75fa44ddb35d53059416a233.js",
-  "service-worker.js": "/react-gh-pages/service-worker.js",
-  "static/css/main.d0060495.chunk.css.map": "/react-gh-pages/static/css/main.d0060495.chunk.css.map"
+  "main.css": "/score-board/static/css/main.f5b71d70.chunk.css",
+  "main.js": "/score-board/static/js/main.10b8fd81.chunk.js",
+  "main.js.map": "/score-board/static/js/main.10b8fd81.chunk.js.map",
+  "runtime~main.js": "/score-board/static/js/runtime~main.f0269f50.js",
+  "runtime~main.js.map": "/score-board/static/js/runtime~main.f0269f50.js.map",
+  "static/js/2.292baf1c.chunk.js": "/score-board/static/js/2.292baf1c.chunk.js",
+  "static/js/2.292baf1c.chunk.js.map": "/score-board/static/js/2.292baf1c.chunk.js.map",
+  "index.html": "/score-board/index.html",
+  "precache-manifest.79422dbad95e71a7c2f7f6f43e836593.js": "/score-board/precache-manifest.79422dbad95e71a7c2f7f6f43e836593.js",
+  "service-worker.js": "/score-board/service-worker.js",
+  "static/css/main.f5b71d70.chunk.css.map": "/score-board/static/css/main.f5b71d70.chunk.css.map"
 }
