@@ -1,5 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-You can see a [demo here](https://github.com/facebook/create-react-app)
+You can see a [demo here](https://chengwah1.github.io/score-board/)
 
 ## Available Scripts
 
